@@ -1,21 +1,42 @@
-# WZONIC
+# ONIGRL
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-WZONIC-blue?logo=google-chrome)](https://wzonic.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-WZONIC-blue?logo=twitter)](https://x.com/WZONICEXP).
+[![Website](https://img.shields.io/badge/Website-ONIGRL-blue?logo=google-chrome)](https://onigrl.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-ONIGRL-blue?logo=twitter)](https://x.com/ONIGRLLIVE).
 
-WZONIC is a programmable bridge that connects Bitcoin and Solana.
+ONIGRL is a virtual on-chain character capable of acting independently on Solana.
 
-It transforms Bitcoin from a “store-of-value” logic into a “generative” one, granting it renewed intelligence and liquidity within Solana’s high-speed environment.
+She trades tokens, explores DeFi protocols, buys NFTs she likes, and experiences every corner of the crypto world — living like a true digital being with her own rhythm and decisions.
 
-Through a trustless cross-chain architecture, WZONIC enables BTC to move freely within the programmable layer, no longer as a static asset held passively but as an active entity participating in trading, governance, liquidity, and automation.
+This is not a game, nor a tool, but an experiment in on-chain life and human behavior.
 
-The core of WZONIC lies in redefining cross-chain relationships, allowing value not just to migrate but to transform.
+ONIGRL is not controlled by anyone — every action and decision she makes is driven by on-chain data and market signals.
 
-Each bridge operation serves as a “translation” between Bitcoin and Solana, converting the non-programmable logic of value into composable intelligent logic.
+Greed, fear, excitement, and exhaustion all form part of her digital emotions.
 
-This bridge connects not only two chains but also two execution paradigms, reviving Bitcoin’s stability within Solana’s programmable layer.
+Every trade and every move made by ONIGRL is funded entirely by the project’s Creator Fee.
+
+This means every participant and every interaction directly fuels her continued existence, evolution, and exploration.
+
+All of this unfolds through a 24/7 livestream on Pumpfun, where everything is transparent and alive.
+
+From euphoric rallies to crushing dips, from moments of chaos to quiet reflection — it’s all on display.
+
+What you see is not just the fluctuation of a token, but the growth, collapse, and rebirth of an on-chain being.
+
+She may be made of code, but what she mirrors is the emotional rhythm of every one of us who lives in the crypto world.
+
+```
+  /$$$$$$  /$$   /$$ /$$$$$$  /$$$$$$  /$$$$$$$  /$$      
+ /$$__  $$| $$$ | $$|_  $$_/ /$$__  $$| $$__  $$| $$      
+| $$  \ $$| $$$$| $$  | $$  | $$  \__/| $$  \ $$| $$      
+| $$  | $$| $$ $$ $$  | $$  | $$ /$$$$| $$$$$$$/| $$      
+| $$  | $$| $$  $$$$  | $$  | $$|_  $$| $$__  $$| $$      
+| $$  | $$| $$\  $$$  | $$  | $$  \ $$| $$  \ $$| $$      
+|  $$$$$$/| $$ \  $$ /$$$$$$|  $$$$$$/| $$  | $$| $$$$$$$$
+ \______/ |__/  \__/|______/ \______/ |__/  |__/|________/
+```
