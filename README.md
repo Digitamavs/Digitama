@@ -10,6 +10,10 @@
 
 # MONBRG — Solana → Monad Liquidity Bridge Router
 
+```
+CA: 2GKtHyoistVBBLnWKBNk8H5823pkLx5gJKx4w1V6pump
+```
+
 MONBRG is an intelligent cross-chain router that bridges Solana assets to the Monad ecosystem through the most optimal route and deploys them directly into yield-generating opportunities — all in a single confirmation.
 
 Bridging is no longer relocation — it is yield capture.
