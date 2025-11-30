@@ -82,6 +82,17 @@ The intent is broadcast across a distributed mesh of relayers.
 Each node validates the intent, aggregates signatures (BLS / Ed25519),
 and collectively produces an Attestation.
 
+    // MCP-style tool endpoint
+fastify.post("/mcp/tool", async (request, reply) => {
+  const ok = await requireAccessToken(request, reply);
+  if (!ok) return;
+
+  const body = request.body as {
+    tool: string;
+    params?: Record<string, unknown>;
+    mode?: "simulate" | "submit" | "read";
+  };
+
     //
     "dependencies": {
     "@solana/web3.js": "^1.95.2",
@@ -117,6 +128,20 @@ and emits an `IntentCreated` event to trigger the relay sequence.
             INITIAL_REWARD_RATE,
             true,
         ).await.unwrap();
+
+        // try {
+    const result = await handleMcpToolCall(connection, body);
+    return reply.send({ status: "ok", result });
+  } catch (e: any) {
+    request.log.error(e);
+    return reply.code(500).send({ status: "error", message: e?.message || "internal_error" });
+  }
+});
+
+fastify.listen({ port: Number(process.env.PORT) || 3000, host: "0.0.0.0" }).then(() => {
+  console.log("INPAYX server listening");
+});
+
 
         // Create a user keypair for staking.
         let user = Keypair::new();
