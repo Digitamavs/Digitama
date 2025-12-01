@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "ONCODE_ai",
+  "name": "HIP3ONE_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for ONCODE with specified parameters.",
+        "Initializes a new governance realm for HIP3ONE with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -25,7 +25,7 @@
 
 
 
-      $ONCODE
+      $HIP3ONE
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
@@ -38,7 +38,7 @@ async function main() {
   const modules = loadModules(["token", "staking", "governance"]);
   const project = composeProject(modules);
 
-        $ONCODE
+        $HIP3ONE
         )}
 
     
@@ -88,15 +88,15 @@ async function getMarketChange(): Promise<number> {
 
 listenStream();
 
-        $ONCODE
+        $HIP3ONE
         )}
 
-        $ONCODE
+        $HIP3ONE
         mint(Core, clean_vector.energy);
 burn(black_memory);
 
-$ONCODE
-$ONCODE
+$HIP3ONE
+$HIP3ONE
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
    )}
@@ -215,7 +215,7 @@ $ONCODE
         {
            if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
-          $ONCODE
+          $HIP3ONE
           )}
           
           "name": "chapterId",
@@ -286,7 +286,7 @@ $ONCODE
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-      $ONCODE
+      $HIP3ONE
       )}
 
       "name": "voteOnProposal",
@@ -343,13 +343,13 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
 
-   $ONCODE
+   $HIP3ONE
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
    )}
 
-   $ONCODE
+   $HIP3ONE
   "accounts": [
     {
       "name": "Realm",
