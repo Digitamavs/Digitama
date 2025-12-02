@@ -23,7 +23,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
     );
 
     Lightning Scheduler      │ Event Channels (lock-free) │ ring buffers
-    $HIP3ONE
+    $KINHEX
     )}
 
     program_test.add_account(
@@ -67,7 +67,7 @@ pub struct Initialize<'info> {
     #[account(mut)]
     pub user: Signer<'info>,
     pub system_program: Program<'info, System>,
-    $HIP3ONE
+    $KINHEX
     )}
 
         console.log("[Oncode] Using wallet:", provider.wallet.publicKey.toBase58());
@@ -80,13 +80,13 @@ pub struct Initialize<'info> {
   // const program = new anchor.Program(idl, programId, provider);
 
         Entropy ↑ → Collapse() → Compress() → Reform() → Balance →
-        $HIP3ONE
+        $KINHEX
         )}
-$HIP3ONE
+$KINHEX
         )}
     );
 
-$HIP3ONE
+$KINHEX
     )}
 
     let stake_ix = Instruction {
