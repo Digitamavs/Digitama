@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-ORENOX-blue?logo=google-chrome)](https://orenox.tech/)
 [![Twitter](https://img.shields.io/badge/Twitter-ORENOX-blue?logo=twitter)](https://x.com/ORENOXWEB3)
 
+```
+ca: GBuspJUK6utZBqtqW97uBW9akbnrWKnwLzGpz4AWpump
+```
+
 ORENOX is an execution layer designed to make on-chain trading unexploitable.  
 By hiding real trading intent until the moment of settlement, ORENOX prevents MEV extraction, front-running, back-running and sandwich attacks — ensuring that 100% of the profit stays with the user.
 
