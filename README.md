@@ -1,92 +1,82 @@
-# 🔐 HASHBOI
+# Autom9
 
-**HASHBOI** is a crypto-native character living fully on-chain.  
-Every action, every impulse, every mistake — recorded, hashed, and broadcast.
+**Turning Meme Belief into Settleable Futures**
 
-This is not a roadmap.  
-This is a life.
-
-CA: D6Gac7mt2ntw3imprJXkaook4rstnMmS8bFA8TfXpump
+Autom9 is an on-chain prediction protocol that transforms meme belief, sentiment, and narrative consensus into tradable, multi-outcome futures.  
+Rather than reducing the future to binary answers, Autom9 allows markets to price belief across multiple fate paths.
 
 ---
 
-## 🔗 Official Links
+## 🌐 Links
 
-<p align="center">
-  <a href="https://hashboi.fun/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-HASHBOI-black?style=for-the-badge&logo=google-chrome">
-  </a>
-  &nbsp;
-  <a href="https://x.com/HASHBOIFUN" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@HASHBOIFUN-1DA1F2?style=for-the-badge&logo=twitter">
-  </a>
-</p>
-
-## 🧬 What is HASHBOI?
-
-HASHBOI experiences the entire crypto world using creator fees:
-
-- Trading
-- Minting
-- FOMO
-- Collapse
-- Restart
-
-No promises.  
-No narratives.  
-Just on-chain behavior.
-
-Every breath is a transaction.
+[![Website](https://img.shields.io/badge/Website-autom9.tech-black?style=for-the-badge)](https://autom9.tech/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@AUTOM9MAX-1DA1F2?style=for-the-badge)](https://x.com/AUTOM9MAX)
 
 ---
 
-## 🔴 Live On-Chain
+## 🧠 What Is Autom9?
 
-HASHBOI does not post updates.  
-The chain does.
+Markets do not move on truth alone — they move on belief.  
+Autom9 captures collective conviction and expresses it as on-chain price signals.
 
-Watch the lifecycle unfold in real time.
-
-> **Witness an on-chain life, from genesis to entropy.**
-
-
+Each market represents a meme, narrative, or idea about the future.  
+Participants express belief by allocating capital across multiple possible outcomes, allowing consensus to emerge organically.
 
 ---
 
-## 📜 Contract Address (CA)
+## 🔑 Core Features
 
-> **⚠️ Verified CA will be published ONLY on the official website**
->
-> 
-Do not trust:
-- DMs  
-- Reply links  
-- Fake dashboards  
+- **Meme-Driven Prediction Markets**  
+  Create markets around memes, narratives, or cultural signals.
 
-Verify or get rekt.
+- **Multi-Outcome Fate System (Autom9)**  
+  Price the future across nine distinct fate paths instead of binary outcomes.
 
----
+- **Belief-Weighted Pricing**  
+  Market prices reflect conviction, sentiment, and participation.
 
-## 🧠 Philosophy
-
-- No team promises
-- No future guarantees
-- No off-chain storytelling
-
-**Meaning emerges from behavior.**
+- **Automated On-Chain Settlement**  
+  Outcomes settle transparently through on-chain logic without centralized judgment.
 
 ---
 
-## 🧨 Disclaimer
+## ⚡ Why Autom9?
 
-HASHBOI is an experimental, meme-driven on-chain character.  
-Not financial advice.  
-Participation is optional.  
-Chaos is guaranteed.
+- Goes beyond yes/no predictions  
+- Native to meme culture and narrative markets  
+- Turns belief into a measurable, tradable signal  
+- Designed for composability with agents, strategies, and other protocols  
 
 ---
 
-**HASHBOI**  
-_If it’s not on-chain, it didn’t happen._
+## 🧪 Project Status
 
+- **V1 is open-sourced on GitHub**
+- Actively evolving and experimental by design
+- Feedback, ideas, and contributions are welcome
 
+---
+
+## 📜 Philosophy
+
+Autom9 is not just a prediction market.  
+It is an experiment in how belief, memes, and narratives shape reality when given a financial form.
+
+Belief becomes price.  
+Price becomes signal.  
+Signal becomes consensus.
+
+---
+
+## 🤝 Contributing
+
+Contributions, discussions, and pull requests are encouraged.  
+Feel free to explore the codebase, open issues, or propose improvements.
+
+---
+
+## ⚠️ Disclaimer
+
+Autom9 is an experimental protocol.  
+Nothing in this repository constitutes financial advice.  
+Use at your own risk.
